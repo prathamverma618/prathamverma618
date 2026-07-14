@@ -8,8 +8,8 @@ I'm a passionate **Java Backend Developer** and a **B.Sc. Information Technology
 
 - **Languages:** Java, Core Java, Java 8, Java 17, JavaScript
 - **Backend:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, JDBC, JSP & Servlet
-- **Frontend:** React.js, HTML5, CSS3, JavaScript, Bootstrap
-- **Database:** MySQL, SQL
+- **Frontend:** React.js, HTML5, CSS3, JavaScript
+- **Database:** MySQL, SQL, MongoDB
 - **API & Authentication:** REST APIs, JWT Authentication
 - **CS Fundamentals:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), DBMS
 - **Tools & Platforms:** Git, GitHub, Postman, IntelliJ IDEA, Eclipse, VS Code
